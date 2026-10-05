@@ -56,14 +56,14 @@ This app helps calculate each person’s PUB share based on:
 
 ## 🏠 Default Tenant Rooms
 
-| Person | Room |
+| Tenant | Room |
 |---|---|
-| Jesse | Masters |
-| Sheryl | Masters |
-| Primo | Masters |
-| Ate Vangie | Masters |
-| Jeffraim | Room 1 |
-| Jeffcell | Room 2 |
+| Tenant 1 | Masters |
+| Tenant 2 | Masters |
+| Tenant 3 | Masters |
+| Tenant 4 | Masters |
+| Tenant 5 | Room 1 |
+| Tenant 6 | Room 2 |
 
 Visitors can also be assigned a room manually.
 
