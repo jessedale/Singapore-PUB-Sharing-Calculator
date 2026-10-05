@@ -1,0 +1,86 @@
+{
+  "start_month": "Aug 2026",
+  "start_day": "1",
+  "end_month": "Aug 2026",
+  "end_day": "1",
+  "gst_percent": "9.0",
+  "style": "Fusion",
+  "theme_pack": "Light (Default)",
+  "font_family": "Segoe UI",
+  "font_size": "10",
+  "costs": {
+    "elec": "0",
+    "refuse": "0",
+    "water": "0",
+    "gas": "0"
+  },
+  "tenant_rows": 6,
+  "visitor_rows": 2,
+  "default_profile_version": "v2.7",
+  "tenants": [
+    {
+      "name": "Jesse",
+      "room": "Masters",
+      "out": "0",
+      "mult_e": "1.20",
+      "mult_w": "1.00",
+      "away_ranges": []
+    },
+    {
+      "name": "Sheryl",
+      "room": "Masters",
+      "out": "0",
+      "mult_e": "1.00",
+      "mult_w": "1.00",
+      "away_ranges": []
+    },
+    {
+      "name": "Primo",
+      "room": "Masters",
+      "out": "0",
+      "mult_e": "0.70",
+      "mult_w": "0.70",
+      "away_ranges": []
+    },
+    {
+      "name": "Ate Vangie",
+      "room": "Masters",
+      "out": "0",
+      "mult_e": "0.70",
+      "mult_w": "0.70",
+      "away_ranges": []
+    },
+    {
+      "name": "Jeffraim",
+      "room": "Room 1",
+      "out": "0",
+      "mult_e": "1.50",
+      "mult_w": "1.00",
+      "away_ranges": []
+    },
+    {
+      "name": "Jeffcell",
+      "room": "Room 2",
+      "out": "0",
+      "mult_e": "1.00",
+      "mult_w": "1.00",
+      "away_ranges": []
+    }
+  ],
+  "visitors": [
+    {
+      "name": "",
+      "room": "",
+      "days": "0",
+      "mult_e": "0.70",
+      "mult_w": "0.70"
+    },
+    {
+      "name": "",
+      "room": "",
+      "days": "0",
+      "mult_e": "0.70",
+      "mult_w": "0.70"
+    }
+  ]
+}

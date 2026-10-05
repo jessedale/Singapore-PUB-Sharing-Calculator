@@ -1,0 +1,21 @@
+How to Use
+
+1. 🧾 Open the app: Block 816 PUB Splitter.
+
+2. 📅 Choose the Start and End date first.  
+This is very important. The app uses these dates to count the total bill days.
+
+3. 💡 Enter the Electricity, Refuse, Water, and Gas amounts.  
+Adjust the GST dropdown if needed, so the Total PUB amount matches your actual bill.
+
+4. 🏠 If someone was out of the house, double-click their Out of House column.  
+A calendar will open. Click the first day they were away, then click the last day they were away. The app will highlight the days and auto-calculate their days out.
+
+5. ✅ Check the Computed Shares table.  
+This shows each person’s room, days present, and final amount to pay.
+
+Soft Reminder
+
+Even if a tenant was out of the house during the PUB bill period, please remember that some shared or personal costs may still continue. Wi-Fi routers still use electricity, personal fridge items still use electricity, and the standard monthly PUB refuse charge still applies.
+
+Please discuss this kindly and fairly within your household.
